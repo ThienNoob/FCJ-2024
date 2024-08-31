@@ -198,12 +198,12 @@ resource "aws_route_table_association" "dpp-rta-public-subnet-02" {
 <p align="center">
     <img src="./images/destroy.png" alt="Xóa tài nguyên với Terraform" />
 </p>
-<p align="center"><i>Hình 4: Quá trình xóa tài nguyên với lệnh `terraform destroy`. Lệnh này sẽ xóa tất cả các tài nguyên đã được tạo bởi Terraform và đưa hạ tầng về trạng thái ban đầu.</i></p>
+<p align="center"><i>Hình 7: Quá trình xóa tài nguyên với lệnh `terraform destroy`. Lệnh này sẽ xóa tất cả các tài nguyên đã được tạo bởi Terraform và đưa hạ tầng về trạng thái ban đầu.</i></p>
 
 <p align="center">
     <img src="./images/destroy_success.png" alt="Thông báo xóa tài nguyên thành công" />
 </p>
-<p align="center"><i>Hình 5: Thông báo xác nhận việc xóa tài nguyên thành công sau khi chạy lệnh `terraform destroy`. Hình ảnh này hiển thị kết quả khi tất cả các tài nguyên đã được xóa và Terraform thông báo rằng không còn tài nguyên nào để quản lý.</i></p>
+<p align="center"><i>Hình 8: Thông báo xác nhận việc xóa tài nguyên thành công sau khi chạy lệnh `terraform destroy`. Hình ảnh này hiển thị kết quả khi tất cả các tài nguyên đã được xóa và Terraform thông báo rằng không còn tài nguyên nào để quản lý.</i></p>
 
 ## 5. Kết luận
 
